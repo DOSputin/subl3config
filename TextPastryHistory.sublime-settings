@@ -1,0 +1,97 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "14",
+					"stop": "1"
+				},
+				"command": "text_pastry_range",
+				"text": "range 14 1"
+			},
+			"key": "ecf50d0660b16f889a968cf419d935f8",
+			"label": "range 14 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"stop": "14"
+				},
+				"command": "text_pastry_range",
+				"text": "range 14"
+			},
+			"key": "93e5c5041e79991f940a4f978eb5b98a",
+			"label": "range 14"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"stop": "-14"
+				},
+				"command": "text_pastry_range",
+				"text": "range -14"
+			},
+			"key": "c57aebbf868c45042865377e9f5790da",
+			"label": "range -14"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "1",
+					"stop": "10"
+				},
+				"command": "text_pastry_range",
+				"text": "range 1-10"
+			},
+			"key": "daffea4a9e2df98e1be406b1b25c7769",
+			"label": "range 1-10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "1",
+					"stop": "9"
+				},
+				"command": "text_pastry_range",
+				"text": "range 1 9"
+			},
+			"key": "dc90766319fa6cb5980c780126538a78",
+			"label": "range 1 9"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "1",
+					"stop": "13"
+				},
+				"command": "text_pastry_range",
+				"text": "range 1 13"
+			},
+			"key": "b19463aa56291fa46d3a2d5d4209ed7e",
+			"label": "range 1 13"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"start": "1",
+			"stop": "13"
+		},
+		"command": "text_pastry_range",
+		"text": "range 1 13"
+	}
+}

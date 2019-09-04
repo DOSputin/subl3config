@@ -1,0 +1,16 @@
+// SublimeLinter Settings - User
+  {
+  "linters":{
+    "standard": {
+      "@disable": false,
+      "args": ["--parser", "babel-eslint"],
+      "chdir": "${home}",
+      "excludes": []
+    }
+  },
+  "syntax_map": {
+    "naomi.fjsx15": "javascript",
+    "naomi.scss3": "scss"
+  }
+}
+

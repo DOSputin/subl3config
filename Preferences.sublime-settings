@@ -1,0 +1,67 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"extra_file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		".git"
+	],
+	"extra_folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules/*"
+	],
+	"font_face": "Fira Code Retina",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 12,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"Splitcube"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_files": false,
+	"line_padding_bottom": 0.5,
+	"line_padding_top": 0.5,
+	"overlay_scroll_bars": "enabled",
+	"remember_open_files": true,
+	"show_definitions": false,
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
